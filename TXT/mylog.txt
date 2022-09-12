@@ -8,4 +8,7 @@ ZCZC W00 90 L04 Zoom class
 ZCZC W00 30 L05 W00 slides review
 ZCZC W00 03 L06 Quizz (to little time)
 ZCZC W01 90 L07 class 
-ZCZC W01 03 L06 Quizz 01(to little time)
+ZCZC W01 03 L08 Quizz 01(to little time)
+ZCZC W01 90 L09 VM+Debian set up
+ZCZC W01 90 L10 troubleshooting
+ZCZC W01 30 L11 completion W01 homework
