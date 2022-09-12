@@ -13,7 +13,7 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://www.hostinger.com/tutorials/linux-commands)<br>
+1. [34 Basic Linux Commands Every User Should Know](https://www.hostinger.com/tutorials/linux-commands)<br>
 This is a link to basic linux commands. <br>
 It is very important because this will help you move trough linux more easily.
 
