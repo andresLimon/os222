@@ -14,7 +14,7 @@ permalink: LINKS/
 # LINKS
 
 1. [One](https://www.hostinger.com/tutorials/linux-commands)<br>
-THis is a link to basic linux commands. 
+This is a link to basic linux commands. <hr>
 It is very important because this will help you move trough linux more easily.
 
 2. [Two](https://en.wikipedia.org/wiki/2)<br>
