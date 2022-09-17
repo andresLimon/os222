@@ -16,10 +16,9 @@ permalink: LINKS/
 This is a link to basic linux commands. <br>
 It is very important because this will help you move trough linux more easily.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Debian Documentation]([https://en.wikipedia.org/wiki/2](https://www.debian.org/doc/index.en.html))<br>
+This is a link to the Debian documentation. <br>
+The link contains important information if you run into problems or want to know more about Debian.
 
 3. [Three](https://en.wikipedia.org/wiki/3)<br>
 Liquorice bonbon lemon drops marshmallow.
