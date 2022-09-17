@@ -16,7 +16,7 @@ permalink: LINKS/
 This is a link to basic linux commands. <br>
 It is very important because this will help you move trough linux more easily.
 
-2. [Debian Documentation]([https://en.wikipedia.org/wiki/2](https://www.debian.org/doc/index.en.html))<br>
+2. [Debian Documentation](https://www.debian.org/doc/index.en.html)<br>
 This is a link to the Debian documentation. <br>
 The link contains important information if you run into problems or want to know more about Debian.
 
