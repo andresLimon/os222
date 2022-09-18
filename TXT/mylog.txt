@@ -12,3 +12,10 @@ ZCZC W01 03 L08 Quizz 01(to little time)
 ZCZC W01 90 L09 VM+Debian set up
 ZCZC W01 90 L10 troubleshooting
 ZCZC W01 30 L11 completion W01 homework
+ZCZC W02 90 L12 Zoom class Tuesday
+ZCZC W02 90 L13 Zoom class Thursday
+ZCZC W02 20 L14 Studyng for Quizz 02
+ZCZC W02 03 L15 Quizz 02
+ZCZC W02 90 L16 Start W02 homework
+ZCZC W02 20 L17 Update hithub TXT
+ZCZC W02 90 L16 Finishing W02 homework
