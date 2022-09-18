@@ -20,10 +20,9 @@ It is very important because this will help you move trough linux more easily.
 This is a link to the Debian documentation. <br>
 The link contains important information if you run into problems or want to know more about Debian.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [What Is Malware?](https://www.cisco.com/c/en/us/products/security/advanced-malware-protection/what-is-malware.html#~7-types-of-malware)<br>
+This is a link to the Cisco malware information. <br>
+Contains information that helped me with cyebrsecurity and also it helped me to study for the quizz.
 
 4. [Four](https://en.wikipedia.org/wiki/4)<br>
 Powder donut cheesecake wafer.
