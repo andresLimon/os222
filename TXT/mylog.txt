@@ -20,3 +20,9 @@ ZCZC W02 90 L16 Start W02 homework
 ZCZC W02 20 L17 Update hithub TXT
 ZCZC W02 90 L18 Finishing W02 homework
 ZCZC W02 10 L19 Edit/add links
+ZCZC W03 10 L20 Study for Quizz 03 1
+ZCZC W03 10 L21 Take Quizz 03 1
+ZCZC W03 10 L22 Study for Quizz 03 2
+ZCZC W03 03 L23 Take Quizz 03 2
+ZCZC W03 20 L24 Updating files GitHub
+ZCZC W03 90 L25 Starting W03 assigment
