@@ -24,10 +24,9 @@ The link contains important information if you run into problems or want to know
 This is a link to the Cisco malware information. <br>
 Contains information that helped me with cyebrsecurity and also it helped me to study for the quizz.
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+4. [Symmetric vs Asymmetric encryption: What’s the difference?](https://blog.mailfence.com/symmetric-vs-asymmetric-encryption/#:~:text=Symmetric%20encryption%20uses%20a%20private,her%20private%20key%20to%20decrypt.)<br>
+This is a link to explan ation about Symmetric and Asymmetric encryption . <br>
+It provided me more information about Symmetric and Asymmetric encryption, so that I could understand better the topic.
 
 
 This is {{ site.title }} and I am {{ site.author }}.
