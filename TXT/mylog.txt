@@ -26,3 +26,4 @@ ZCZC W03 10 L22 Study for Quizz 03 2
 ZCZC W03 03 L23 Take Quizz 03 2
 ZCZC W03 20 L24 Updating files GitHub
 ZCZC W03 90 L25 Starting W03 assigment
+ZCZC W03 90 L26 Finishing W03 assigment
