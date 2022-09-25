@@ -15,7 +15,7 @@ permalink: LINKS/
 
 1. [Operating system](https://en.wikipedia.org/wiki/Operating_system)<br>
 This is a link to information about Operating systems. <br>
-It shows what is a Operating system and it helped me undestand what I', working with.
+It shows what is a Operating system and it helped me undestand what I'm working with.
 
 2. [34 Basic Linux Commands Every User Should Know](https://www.hostinger.com/tutorials/linux-commands)<br>
 This is a link to basic linux commands. <br>
