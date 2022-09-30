@@ -27,3 +27,9 @@ ZCZC W03 03 L23 Take Quizz 03 2
 ZCZC W03 20 L24 Updating files GitHub
 ZCZC W03 90 L25 Starting W03 assigment
 ZCZC W03 90 L26 Finishing W03 assigment
+ZCZC W04 90 L27 Class
+ZCZC W04 90 L28 2nd Class
+ZCZC W04 05 L28 Quiz2 W04
+ZCZC W04 10 L29 Study for Quiz1 
+ZCZC W04 03 L29 Quiz1 W04
+ZCZC W04 30 L30 Update GitHub
