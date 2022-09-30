@@ -33,7 +33,9 @@ Contains information that helped me with cyebrsecurity and also it helped me to 
 This is a link to explan ation about Symmetric and Asymmetric encryption . <br>
 It provided me more information about Symmetric and Asymmetric encryption, so that I could understand better the topic.
 
-
+4. [C Introduction](https://www.w3schools.com/c/c_intro.php)<br>
+This is a link to the Basics fo C leanguaje. <br>
+Contains information that helped me with some doubts I had with C lenguaje.
 
 
 This is {{ site.title }} and I am {{ site.author }}.
