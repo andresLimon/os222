@@ -37,6 +37,9 @@ It provided me more information about Symmetric and Asymmetric encryption, so th
 This is a link to the Basics fo C leanguaje. <br>
 Contains information that helped me with some doubts I had with C lenguaje.
 
+4. [Big Endian and Little Endian](https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html)<br>
+This is a link to the Basics fo Big Endian and Little Endian. <br>
+This link was very helpful for understanding the basics of Big Endian and Little Endian.
 
 This is {{ site.title }} and I am {{ site.author }}.
 <br>
