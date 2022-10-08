@@ -35,4 +35,9 @@ ZCZC W04 03 L29 Quiz1 W04
 ZCZC W04 30 L30 Update GitHub
 ZCZC W04 90 L31 Assigment W04
 ZCZC W04 60 L32 Pop up quizz W04
-
+ZCZC W05 90 L33 zoom class
+ZCZC W05 90 L34 offline class
+ZCZC W05 05 L35 W05 quizz 2
+ZCZC W05 03 L36 W05 quizz 1
+ZCZC W05 90 L37 Assigment W05
+ZCZC W05 60 L38 Update GH
