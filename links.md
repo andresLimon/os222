@@ -33,13 +33,17 @@ Contains information that helped me with cyebrsecurity and also it helped me to 
 This is a link to explan ation about Symmetric and Asymmetric encryption . <br>
 It provided me more information about Symmetric and Asymmetric encryption, so that I could understand better the topic.
 
-4. [C Introduction](https://www.w3schools.com/c/c_intro.php)<br>
+6. [C Introduction](https://www.w3schools.com/c/c_intro.php)<br>
 This is a link to the Basics fo C leanguaje. <br>
 Contains information that helped me with some doubts I had with C lenguaje.
 
-4. [Big Endian and Little Endian](https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html)<br>
+7. [Big Endian and Little Endian](https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html)<br>
 This is a link to the Basics fo Big Endian and Little Endian. <br>
 This link was very helpful for understanding the basics of Big Endian and Little Endian.
+
+8. [Silberschatz et. al.: Operating System Concepts](https://www.os-book.com/OS10/slide-dir/)<br>
+This is a link to the Book Silberschatz et. al.: Operating System Concepts. <br>
+This link was very helpful for understanding the basics of This course topics and it helped me with the quizzes.
 
 This is {{ site.title }} and I am {{ site.author }}.
 <br>
