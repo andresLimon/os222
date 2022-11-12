@@ -45,6 +45,10 @@ This link was very helpful for understanding the basics of Big Endian and Little
 This is a link to the Book Silberschatz et. al.: Operating System Concepts. <br>
 This link was very helpful for understanding the basics of This course topics and it helped me with the quizzes.
 
+9. [The Linux cp Command – How to Copy Files in Linux](https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux/)<br>
+This is a link to a website with How to Copy Files in Linux <br>
+This link was very helpful for how the copy command works in linux.
+
 This is {{ site.title }} and I am {{ site.author }}.
 <br>
 <br>
