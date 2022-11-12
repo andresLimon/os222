@@ -49,3 +49,9 @@ ZCZC W06 03 L43 Quiiz06 1
 ZCZC W06 30 L44 Update GH
 ZCZC W06 90 L45 Week Assigment
 ZCZC W06 90 L46 Pop quizzes
+ZCZC W07 90 L47 Class zoom
+ZCZC W07 90 L48 Class offline
+ZCZC W07 05 L49 Quizz02
+ZCZC W07 03 L50 Quizz01
+ZCZC W07 90 L51 Pop Quizzes
+ZCZC W07 90 L52 Weekly assigment
