@@ -49,6 +49,10 @@ This link was very helpful for understanding the basics of This course topics an
 This is a link to a website with How to Copy Files in Linux <br>
 This link was very helpful for how the copy command works in linux.
 
+10. [Pointer Basics and Pass-by-Address](https://www.cs.fsu.edu/~myers/cgs4406/notes/pointers.html#:~:text=A%20pointer%20is%20a%20variable,essential%20for%20dynamic%20memory%20allocation.)<br>
+This is a link to a website with How Pointer Basics and Pass-by-Address works. <br>
+This link was very helpful for how understand better the topic.
+
 This is {{ site.title }} and I am {{ site.author }}.
 <br>
 <br>
