@@ -53,6 +53,10 @@ This link was very helpful for how the copy command works in linux.
 This is a link to a website with How Pointer Basics and Pass-by-Address works. <br>
 This link was very helpful for how understand better the topic.
 
+11. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+This is a link to a website with How CPU Scheduling works. <br>
+This link was very helpful for how understand better the weeks topic.
+
 This is {{ site.title }} and I am {{ site.author }}.
 <br>
 <br>
